@@ -1,0 +1,4 @@
+Link: http://suninjuly.github.io/xpath_examples
+F12 Open DevTools
+We need create Xpath-selector to find Gold button and use text() 
+We have: /html/body/div[2]/button[text()="Gold"]
